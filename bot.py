@@ -68,10 +68,8 @@ try:
     client.run(chave)
 
 except:
-   print(1)  
+   pass 
 
-# client = MyClient   
-# client.run('')
 
     
 
